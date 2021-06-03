@@ -6,11 +6,9 @@
 
 ## The easiest way to deploy this Bot
 ### HEROKU
-<a href="https://heroku.com/deploy?template=https://github.com/W2HGalaxy-Op/W2HMusic"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-red?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<a href="https://heroku.com/deploy?template=https://github.com/shrvan42/savege-Musicbot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-red?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 ### StringSession
-
-[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@GalaxyOp/W2HMusicBot#main.py) 
 
 
 ### Mandatory Vars.
