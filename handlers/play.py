@@ -491,7 +491,7 @@ async def play(_, message: Message):
                 [
                    InlineKeyboardButton(
                        text="⭐ Support ⭐",
-                       url='https://t.me/W2HSupport')
+                       url='https://t.me/SAVAGE_USERBOT')
                 ],
                 [       
                     InlineKeyboardButton(
@@ -553,7 +553,7 @@ async def deezer(client: Client, message_: Message):
     try:
         user = await USER.get_me()
     except:
-        user.first_name =  "W2HMusic"
+        user.first_name =  "SavageMusic"
     usar = user
     wew = usar.id
     try:
@@ -623,7 +623,7 @@ async def deezer(client: Client, message_: Message):
              [
                InlineKeyboardButton(
                    text="⭐ Support ⭐",
-                   url='https://t.me/W2HSupport')
+                   url='https://t.me/SAVAGE_USERBOT')
              ],
              [       
                  InlineKeyboardButton(
@@ -756,7 +756,7 @@ async def jiosaavn(client: Client, message_: Message):
              [
                InlineKeyboardButton(
                    text="⭐ Support ⭐",
-                   url='https://t.me/W2HSupport')
+                   url='https://t.me/SAVAGE_USERBOT')
              ],
              [       
                InlineKeyboardButton(
